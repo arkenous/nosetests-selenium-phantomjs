@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/trileg/nosetests-selenium-phantomjs.svg?branch=master)](https://travis-ci.org/trileg/nosetests-selenium-phantomjs)
+
 ## Install dependencies
 Use pip to install nose and selenium
 
