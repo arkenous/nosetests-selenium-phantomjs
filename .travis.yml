@@ -7,4 +7,7 @@ python:
   - "3.5"
   - "3.4"
 
+install:
+  - "pip install selenium"
+
 script: nosetests --cover-package=test.py
