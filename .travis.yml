@@ -1,0 +1,10 @@
+language: python
+
+sudo: required
+dist: trusty
+
+python:
+  - "3.5"
+  - "3.4"
+
+script: nosetests --cover-package=test.py
