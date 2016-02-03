@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+bin
+include
+lib
+man
+selenium
+*.iml
+pip-selfcheck.json
+*.log
+__pycache__
