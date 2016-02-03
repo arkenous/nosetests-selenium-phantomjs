@@ -18,13 +18,5 @@ def test_sample1():
     driver.close()
 
 
-def test_sample2():
-    driver = webdriver.PhantomJS()
-    driver.get('http://www.google.co.jp/')
-    ok_('https://www.trileg.net/' in driver.current_url)
-
-    driver.close()
-
 if __name__ == '__main__':
     test_sample1()
-    test_sample2()

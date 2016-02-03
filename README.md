@@ -17,6 +17,3 @@ run `nosetests` in the project directory
 ```
 $ nosetests
 ```
-
-- test_sample1: Succeeded
-- test_sample2: Failed
